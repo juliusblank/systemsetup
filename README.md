@@ -2,7 +2,19 @@
 Gathering necessary steps to setup my systems
 
 # Systems
-## Ubuntu 14.04
+
+## Lenovo T400
+
+### Hardware modifications
+
+#### WWAN adapter
+
+Ordered the following adapter on 25.05.2015 via amazon:
+http://www.amazon.de/gp/product/B00KDJUVXY?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00#productDetails
+
+Setup as described under http://www.cordes-bjoern.de/index.php/bildergalerien-und-anleitungen/anleitungen-tutorials/20-lenovo-thinkpad-t400-umts-nachruesten
+
+### Ubuntu 14.04
 
 this setup has been performed on my T400 from work.
 Steps:
@@ -17,6 +29,11 @@ Steps:
 
     `sudo apt-get update`
     `sudo apt-get install git htop vim`
+
+##### WWAN adapter
+
+    `sudo add-apt-repository ppa:linrunner/thinkpad-extras`
+    `sudo apt-get install tp-wwan-hotkey`
 
 ### setup bash aliases
 
