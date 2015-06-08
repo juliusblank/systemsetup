@@ -49,3 +49,5 @@ Steps:
     # docker aliases
     EOF
     mv /tmp/bash_aliases ~/.bash_aliases
+    
+    source ~/.bash_aliases
