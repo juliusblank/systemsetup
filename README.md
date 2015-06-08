@@ -1,5 +1,5 @@
 # systemsetup
-Gathering necessary steps to setup my systems
+Gathering necessary steps to setup my systems.
 
 # Systems
 
@@ -13,6 +13,8 @@ Ordered the following adapter on 25.05.2015 via amazon:
 http://www.amazon.de/gp/product/B00KDJUVXY?psc=1&redirect=true&ref_=oh_aui_detailpage_o00_s00#productDetails
 
 Setup as described under http://www.cordes-bjoern.de/index.php/bildergalerien-und-anleitungen/anleitungen-tutorials/20-lenovo-thinkpad-t400-umts-nachruesten
+
+> todo put in more details about what was necessary to get UMTS running here
 
 ### Ubuntu 14.04
 
