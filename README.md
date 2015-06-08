@@ -29,6 +29,7 @@ Steps:
 
     `sudo apt-get update`
     `sudo apt-get install git htop vim`
+    `sudo dpkg -i software/Teapot-2.3.0-Linux-x86_64.deb`
 
 ##### WWAN adapter
 
